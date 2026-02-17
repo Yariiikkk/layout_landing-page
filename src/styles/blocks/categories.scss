@@ -21,6 +21,7 @@
     font-family: $font-family;
 
     &:hover {
+      cursor: pointer;
       background-color: $hover-button-color;
     }
 
